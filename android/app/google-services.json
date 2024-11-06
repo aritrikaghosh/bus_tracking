@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "832936720267",
+    "firebase_url": "https://vit-bus-tracking-default-rtdb.firebaseio.com",
+    "project_id": "vit-bus-tracking",
+    "storage_bucket": "vit-bus-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832936720267:android:badc75c7d83de19b0d618e",
+        "android_client_info": {
+          "package_name": "com.mappls.sdk.demo.flutter.mappls_flutter_sdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832936720267-ob028gv8b3cc1lg2gpmq7pdjfgkqbghn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mappls.sdk.demo.flutter.mappls_flutter_sdk",
+            "certificate_hash": "00238017064f41b4f3d9b14f976f06b3f6a099ec"
+          }
+        },
+        {
+          "client_id": "832936720267-g8aucuo9feubsfsap8po28olss5b4fof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhQY9YiP4ZJ10K69xRgsGb3jjUYZ5UgZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832936720267-6jj5hqhv7ekg7q0vlquhr4dj7q14en8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832936720267-ck4ns2coklfdsl8s3vod9u82ha3obbsd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mappls.sdk.demo.flutter.mapplsFlutterSdk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
